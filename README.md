@@ -5,11 +5,39 @@
 </p>
 
 
-### Hello!
-### Choel-wook's Github
+## Hello!
+## Choel-wook's Github
+
 ---
 
-WPF Portfolio
+## Projects
+
+1. KLeague_Search
+   - 2022.02.14
+   - [Link](https://github.com/AellimSun/Green_team_Kleague_file_rw)
+   - Made by C
+   
+   <br/>
+
+2. Cereal_ERP
+   - 2022.03.13
+   - [Link](https://github.com/AellimSun/Cereal_ERP)
+   - Made by C
+
+<br/>
+   
+
+3. Aellim_The_Dominion_Game
+   - 2022.06
+   - [Link](https://github.com/AellimSun/pamatto)
+   - Made by C# 
+
+<br/>
+   
+
+---
+
+## WPF Portfolio
  - Naver Movie Searcher & Naver News Searcher
  - [Link](https://github.com/Cheol-wook/studyWPF/tree/main/portfolio)
 
