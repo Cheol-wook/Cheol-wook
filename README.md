@@ -51,12 +51,7 @@
    - 2022.06
    - [Link](https://github.com/Cheol-wook/studyWPF)
    - Made by WPF
-
-5. Firmware Project
-   - 2022.06
-   - [Link](https://github.com/Cheol-wook/Firmware_study)
-   - made by ATmega128A, Microchip
-
+   - 
 ---
 
 ## WPF Portfolio
@@ -67,6 +62,23 @@
 
 ---
 
+## Study
+
+1. github
+    - [GitBash](https://github.com/Cheol-wook/test-1)
+    - [GitBash2](https://github.com/Cheol-wook/git_file_study)
+    - [gitBash - Pull Request](https://github.com/Cheol-wook/doit)
+
+2. C#
+    - [Interface](https://github.com/Cheol-wook/Interface_study)
+    - [QueueImplementation](https://github.com/Cheol-wook/QueueImplementation)
+
+3. WPF
+    - [WPF](https://github.com/Cheol-wook/studyWPF)
+    - [WPF2](https://github.com/Cheol-wook/winform-study)
+
+4. Firmware
+    - [Firmware](https://github.com/Cheol-wook/Firmware_study)
 ## Using Tools
 
 <p align='left'>
@@ -84,6 +96,7 @@
 ---
 ## 리소스 사이트
    - [구글 오픈소스](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit)
+   - [ATmega128A 데이터시트](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8151-8-bit-AVR-ATmega128A_Datasheet.pdf)
 
 <!--
 **Cheol-wook/Cheol-wook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
